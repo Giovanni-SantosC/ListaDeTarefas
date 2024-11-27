@@ -1,0 +1,28 @@
+*{
+    list-style-type: none;
+}
+
+.body{
+    width: 1000px;
+    margin-left: 200px;
+    flex-direction: column;
+}
+
+section.corpo{
+    max-width: 400px;
+    background: rgb(13, 9, 214);
+    margin-left: 300px;
+    text-align: center;
+    padding: 30px 0;
+    border-radius: 40px;
+}
+
+section.corpo h2{
+    color: white;
+}
+
+section.corpo button{
+    padding: 10px;
+    margin-top: 10px;
+}
+
